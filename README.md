@@ -1,4 +1,4 @@
-### Day3 : MySQL 활용 과제 
+# Day3 : MySQL 활용 과제 
 
 ## 문제 1: 기본적인 `SELECT` 쿼리 작성
 
